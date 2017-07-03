@@ -1,2 +1,2 @@
 # WDP
-This is the WDP Workshops Site.
+This is the Web and Device Programming (WDP) Course Workshops Site.
